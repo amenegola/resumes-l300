@@ -1,0 +1,20 @@
+Jane Smith janesmith@email.com | (555) 555-5555 | 456 Oak Street, Sometown, CA 56789
+
+Summary:
+
+Data Analyst with 2+ years of experience in analyzing large datasets, developing insightful reports, and presenting data-driven recommendations. Proficient in data manipulation, statistical analysis, and data visualization tools.
+
+Skills:
+
+SQL, Python, R, Pandas, NumPy, Scikit-learn
+Data Visualization (Tableau, Power BI)
+Statistical Analysis (Hypothesis Testing, Regression)
+Data Cleaning and Transformation
+Data Storytelling and Presentation
+Experience:
+
+Data Analyst | DEF Company | Sometown, CA | 2021 - Present
+Data Intern | GHI Company | Sometown, CA | 2020
+Education:
+
+Master of Science in Data Science | Sometown University | Sometown, CA | 2021

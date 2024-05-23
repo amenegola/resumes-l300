@@ -1,0 +1,20 @@
+John Doe johndoe@email.com | (555) 555-5555 | 123 Main Street, Anytown, CA 12345
+
+Summary:
+
+Highly motivated Software Engineer with 3+ years of experience in developing and deploying web applications using Java, Python, and JavaScript. Proven ability to collaborate with cross-functional teams and deliver high-quality software solutions.
+
+Skills:
+
+Java, Python, JavaScript, HTML, CSS, SQL
+Agile Development Methodologies
+Git, GitHub
+Cloud Computing (AWS, GCP)
+REST APIs
+Experience:
+
+Software Engineer | ABC Company | Anytown, CA | 2020 - Present
+Software Developer Intern | XYZ Company | Anytown, CA | 2019
+Education:
+
+Bachelor of Science in Computer Science | Anytown University | Anytown, CA | 2019
